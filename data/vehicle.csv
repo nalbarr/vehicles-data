@@ -1,4 +1,4 @@
-vehicle_id,year,make,model,engine,aspiration 
+vehicle_id,year,make,model,engine,aspiration,
 1,2019,Cadillac,Cadillac Escalade ESV,6.2 L V8,GAS, 
 2,2021,Audi,Audi A6,V6 MILD,HYBRID EV-GAS, 
 3,2022,BMW,BMX X4,3.0L L6,HYBRID EV-GAS,
